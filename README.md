@@ -16,10 +16,33 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTechStack-Rbg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTechStack-Rbg&layout=compact&langs_count=16&theme=blueberry"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTechStack-Rbg&layout=compact&langs_count=16&theme=dark"/>
     </td>
   </tr>
 </table>
+
+
+<div align="center">
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/rafaelbispodev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/developer_rafael" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/DevTechStack-Rbg" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:codefullstack.rafael@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 
 ---
