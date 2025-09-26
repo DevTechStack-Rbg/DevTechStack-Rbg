@@ -10,10 +10,16 @@
 </p>
 
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTechStack-Rbg&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTechStack-Rbg&layout=compact&langs_count=16&theme=blueberry"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTechStack-Rbg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTechStack-Rbg&layout=compact&langs_count=16&theme=blueberry"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
