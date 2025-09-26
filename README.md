@@ -25,14 +25,6 @@ Foco em **boas práticas, performance e escalabilidade**, sempre buscando entreg
 Sou fundador da **Bytech**, empresa focada em **desenvolvimento de sites e aplicativos**, oferecendo soluções digitais personalizadas e inovadoras para clientes diversos.  
 Na Bytech aplico meus conhecimentos em **backend, integração com bancos de dados, APIs e segurança**, além de gerenciar projetos e acompanhar o ciclo completo de desenvolvimento.
 
----
-
-### 🚀 O que estou fazendo agora
-
-- Estudando **Arquiteturas de Microsserviços** com Spring Cloud  
-- Praticando **mensageria (Kafka, RabbitMQ)**  
-- Experimentando automação com **CI/CD**  
-- Explorando novas integrações em PHP / Laravel  
 
 ---
 
@@ -54,7 +46,7 @@ Na Bytech aplico meus conhecimentos em **backend, integração com bancos de dad
 ### 📫 Me encontre por aí
 
 - 💼 **LinkedIn**: [rafaelbispodev](https://www.linkedin.com/in/rafaelbispodev)  
-- 📧 **E-mail**: (adicione aqui seu e-mail profissional)  
+- 📧 **E-mail**: (codefullstack.rafael@gmail.com)  
 
 ---
 
