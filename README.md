@@ -1,22 +1,23 @@
 ## Hi there 👋  
-**Rafael Bispo — Back-End | Java | Spring Boot**  
+**Rafael Bispo — Back-End | Java | Spring Boot | PHP | Laravel | C#**  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="90" height="90" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="90" height="90" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="90" height="90" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="90" height="90" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="90" height="90" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="90" height="90" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="90" height="90" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="90" height="90" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="90" height="90" alt="AWS" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Back-End (Java / Spring Boot)** com experiência em criação de APIs REST, segurança com **JWT / OAuth2**, persistência de dados via **JPA/Hibernate**, conteinerização com Docker e deploy em ambientes na **AWS**.  
+Sou **Desenvolvedor Back-End** com experiência em **Java / Spring Boot, PHP / Laravel e C#**, criação de **APIs REST**, persistência de dados com **MySQL / JPA**, segurança com **JWT / OAuth2** e conteinerização com **Docker**.  
 
-Sempre focado em **boas práticas, performance e escalabilidade**.
+Foco em **boas práticas, performance e escalabilidade**.
 
 ---
 
@@ -24,8 +25,8 @@ Sempre focado em **boas práticas, performance e escalabilidade**.
 
 - Estudando **Arquiteturas de Microsserviços** com Spring Cloud  
 - Praticando **mensageria (Kafka, RabbitMQ)**  
-- Experimentando automação com **CI/CD e IaC**  
-- Explorando integrações com serviços da **AWS**  
+- Experimentando automação com **CI/CD**  
+- Explorando novas integrações em PHP / Laravel  
 
 ---
 
@@ -33,13 +34,13 @@ Sempre focado em **boas práticas, performance e escalabilidade**.
 
 | Categoria         | Tecnologias / Ferramentas |
 |------------------|-----------------------------|
-| Linguagem         | Java (17+)                 |
-| Frameworks        | Spring Boot, Spring Security, Spring Data JPA |
-| Persistência       | Hibernate / JPA, MySQL, PostgreSQL, H2 |
+| Linguagem         | Java, PHP, C#               |
+| Frameworks        | Spring Boot, Laravel, Spring Security, Spring Data JPA |
+| Persistência       | MySQL, Hibernate / JPA      |
 | APIs / Comunicação | REST, DTOs, Controllers, Exception Handling |
 | Segurança          | JWT, OAuth2                |
-| Contêiner e Infra  | Docker, AWS (EC2, RDS, S3, etc.) |
-| Ferramentas        | Git, Maven, GitHub Actions |
+| Contêiner e Infra  | Docker                     |
+| Ferramentas        | Git, Maven, Composer, GitHub Actions |
 | Boas Práticas      | SOLID, Clean Code, TDD     |
 
 ---
@@ -53,6 +54,6 @@ Sempre focado em **boas práticas, performance e escalabilidade**.
 
 ### ⚡ Curiosidade  
 
-Sou apaixonado por desafios de programação, gosto de aprender novas arquiteturas e estou sempre buscando evoluir como dev para entregar **software útil, bem feito e escalável**.  
+Gosto de desafios de programação, aprender novas arquiteturas e entregar **software útil, bem feito e escalável**.  
 
 ---
